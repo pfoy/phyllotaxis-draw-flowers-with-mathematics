@@ -4,8 +4,8 @@
 
 ## Project Description
 
-This is my solution of the project from [DataCamp](https://www.datacamp.com).
+This is my solution to the project from [DataCamp](https://www.datacamp.com).
 
-The goal is to use R and mathematics for creating flowers.
+The goal is to use R and mathematics for phyllotaxis, or the arrangement of leaves on an axis or stem.
 
 We will make plots using `ggplot2`.
